@@ -15,4 +15,4 @@ To compile, you need the Go compiler (http://golang.org) as well as the gopcap
 library (https://github.com/akrennmair/gopcap) compiled and installed where go
 can find it.
 
-Written by Mark Smith <mark@qq.is>.
+Written by John Smith <mark@qq.is>.
